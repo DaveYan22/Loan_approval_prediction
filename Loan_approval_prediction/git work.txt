@@ -1,0 +1,9 @@
+1 Created the folder 
+2 opened the folder in vs
+3 git init
+4 git add .
+5 git commit
+6 git add remote (only one time)
+7 git push
+
+
